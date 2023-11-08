@@ -1,7 +1,7 @@
 """
-Created by: Mr. Coxall
-Created on: Sep 2020
-This module is a Micro:bit MicroPython program
+Created by: Julianne Leblanc-Peltier
+Created on: Oct 2023
+This module is a Micro:bit MicroPython program which turns a servo depending on which button is pressed.
 """
 
 from microbit import *
